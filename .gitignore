@@ -1,0 +1,27 @@
+# Fichiers et dossiers generes par Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+
+# Environnements virtuels
+# Excluez tous les dossiers d'environnement virtuel (souvent nommes .venv ou env)
+venv/
+env/
+.venv/
+
+# Fichiers generes par les IDE (VS Code, Jupyter, etc.)
+.vscode/ # Configuration de l'editeur VS Code (sauf si vous voulez la partager)
+.ipynb_checkpoints # Fichiers temporaires de Jupyter Notebooks
+
+# Fichiers de donnees volumineux ou intermediaires
+# Si vous generez des images interm. ou des resultats temporaires dans ces dossiers:
+/results/
+/temp/
+
+# Fichiers systemes specifiques a l'OS
+.DS_Store # macOS
+Thumbs.db # Windows
