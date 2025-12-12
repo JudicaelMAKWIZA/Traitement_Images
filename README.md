@@ -11,8 +11,9 @@ Le travail se concentre sur l'application et l'analyse de différentes technique
 | `TP1_Correction_Contraste/` | Contient le Notebook d'implémentation du TP1 (Correction de Contraste). |
 | `TP2_Filtres_Contours/` | Contient le Notebook d'implémentation du TP2 (Filtres, Bruits, Contours). |
 | `Data_TP1.zip/` | Archive contenant les images originales utilisées dans les TPs. |
-| `Rapport_TP1.pdf` | Rapport d'analyse final du TP1. |
-| `Rapport_TP2.pdf` | Rapport d'analyse final du TP2. |
+| `TP1_2_TI_Unikin.pdf` | Enoncé du TP (TP1 et TP2). |
+| `TP1.pdf` | Rapport d'analyse final du TP1. |
+| `TP2.pdf` | Rapport d'analyse final du TP2. |
 
 ---
 
