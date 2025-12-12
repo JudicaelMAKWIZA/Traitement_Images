@@ -8,7 +8,7 @@ build/
 dist/
 
 # Environnements virtuels
-# Excluez tous les dossiers d'environnement virtuel (souvent nommes .venv ou env)
+# Exclues tous les dossiers d'environnement virtuel
 venv/
 env/
 .venv/
@@ -23,5 +23,4 @@ env/
 /temp/
 
 # Fichiers systemes specifiques a l'OS
-.DS_Store # macOS
 Thumbs.db # Windows
