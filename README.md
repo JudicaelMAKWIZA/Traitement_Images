@@ -1,10 +1,10 @@
-# 💻 TP : Traitement et Analyse d'Images (M1 IA & Data Science, Unikin)
+# Traitement et Analyse d'Images (M1 IA & Data Science, Unikin)
 
 Ce dépôt contient les travaux pratiques (TP1 et TP2) réalisés dans le cadre du cours de Traitement d'Images, sous la supervision du **Prof. Masakuna Jordan**.
 
 Le travail se concentre sur l'application et l'analyse de différentes techniques de manipulation d'images (amélioration du contraste, réduction de bruits, et détection de contours) en utilisant la librairie **OpenCV** avec Python.
 
-## 📌 Structure du Projet
+## Structure du Projet
 
 | Dossier/Fichier | Description |
 | :--- | :--- |
@@ -50,7 +50,7 @@ Application et évaluation des méthodes de gradient :
 
 ---
 
-## 🚀 Processus pour Tester le Travail
+## Processus pour Tester le Travail
 
 Pour exécuter les notebooks et reproduire les résultats :
 
